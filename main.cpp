@@ -1,6 +1,7 @@
 int main(){
 float speed = 10f;
 sun.speed(speed);
+sun.glowfuckingaggressively();
 
 // to uncomment tomorrow
 
